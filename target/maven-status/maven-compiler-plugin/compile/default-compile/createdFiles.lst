@@ -1,0 +1,14 @@
+com\project\BackendApplication.class
+com\project\model\Property.class
+com\project\repository\UserRepository.class
+com\project\service\PropertyService.class
+com\project\service\UserService.class
+com\project\model\Review.class
+com\project\service\ReviewService.class
+com\project\controller\GlobalExceptionHandler.class
+com\project\controller\ReviewController.class
+com\project\repository\ReviewRepository.class
+com\project\controller\AuthController.class
+com\project\model\User.class
+com\project\controller\PropertyController.class
+com\project\repository\PropertyRepository.class
